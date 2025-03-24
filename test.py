@@ -1,7 +1,0 @@
-
-
-
-print("Hello")
-
-print("World")
-
